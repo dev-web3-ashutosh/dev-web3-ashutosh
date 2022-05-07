@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-web3-ashutosh
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full Stack Software Development
+- 🌱 I’m currently learning Full Stack Software Development from IIT Roorkee
 - 📫 How to reach me. Please mail at dev.web3.ashutosh@gmail.com
 
 <!---
